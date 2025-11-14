@@ -38,7 +38,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="I-xojc2sXHtUAB5i_VzO-10" value="先进先出" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="420" y="240" width="60" height="30" as="geometry" />
+          <mxGeometry x="420" y="240" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
