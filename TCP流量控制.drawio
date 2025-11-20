@@ -76,6 +76,33 @@
         <mxCell id="gNoqDgL6wOs1tMbOe2U7-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ACK = 1，ack=201，rwnd=300" vertex="1">
           <mxGeometry height="30" width="180" x="300" y="430" as="geometry" />
         </mxCell>
+        <mxCell id="gNoqDgL6wOs1tMbOe2U7-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="seq = 201,数据" vertex="1">
+          <mxGeometry height="30" width="100" x="300" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="gNoqDgL6wOs1tMbOe2U7-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="seq = 301,数据" vertex="1">
+          <mxGeometry height="30" width="100" x="300" y="555" as="geometry" />
+        </mxCell>
+        <mxCell id="gNoqDgL6wOs1tMbOe2U7-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ACK = 1，ack=501，rwnd=0" vertex="1">
+          <mxGeometry height="30" width="180" x="295" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="gNoqDgL6wOs1tMbOe2U7-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="发送100字节数据" vertex="1">
+          <mxGeometry height="30" width="120" x="580" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="gNoqDgL6wOs1tMbOe2U7-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="发送100字节数据" vertex="1">
+          <mxGeometry height="30" width="120" x="580" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="gNoqDgL6wOs1tMbOe2U7-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="发送100字节数据" vertex="1">
+          <mxGeometry height="30" width="120" x="590" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="gNoqDgL6wOs1tMbOe2U7-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="发送100字节数据" vertex="1">
+          <mxGeometry height="30" width="120" x="590" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="gNoqDgL6wOs1tMbOe2U7-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="接受方确认200字节数据，告诉对方窗口为300" vertex="1">
+          <mxGeometry height="30" width="250" x="600" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="gNoqDgL6wOs1tMbOe2U7-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="接受方确认200字节数据，告诉对方窗口为0" vertex="1">
+          <mxGeometry height="30" width="250" x="600" y="620" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
