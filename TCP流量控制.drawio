@@ -68,22 +68,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gNoqDgL6wOs1tMbOe2U7-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="seq = 1,数据" vertex="1">
-          <mxGeometry height="30" width="100" x="300" y="280" as="geometry" />
+          <mxGeometry height="30" width="100" x="330" y="280" as="geometry" />
         </mxCell>
         <mxCell id="gNoqDgL6wOs1tMbOe2U7-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="seq = 101,数据" vertex="1">
-          <mxGeometry height="30" width="100" x="300" y="340" as="geometry" />
+          <mxGeometry height="30" width="170" x="300" y="340" as="geometry" />
         </mxCell>
         <mxCell id="gNoqDgL6wOs1tMbOe2U7-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="ACK = 1，ack=201，rwnd=300" vertex="1">
-          <mxGeometry height="30" width="180" x="300" y="430" as="geometry" />
+          <mxGeometry height="30" width="220" x="290" y="430" as="geometry" />
         </mxCell>
         <mxCell id="gNoqDgL6wOs1tMbOe2U7-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="seq = 201,数据" vertex="1">
-          <mxGeometry height="30" width="100" x="300" y="490" as="geometry" />
+          <mxGeometry height="30" width="170" x="300" y="490" as="geometry" />
         </mxCell>
         <mxCell id="gNoqDgL6wOs1tMbOe2U7-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="seq = 301,数据" vertex="1">
-          <mxGeometry height="30" width="100" x="300" y="555" as="geometry" />
+          <mxGeometry height="30" width="170" x="300" y="555" as="geometry" />
         </mxCell>
         <mxCell id="gNoqDgL6wOs1tMbOe2U7-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="ACK = 1，ack=501，rwnd=0" vertex="1">
-          <mxGeometry height="30" width="180" x="295" y="620" as="geometry" />
+          <mxGeometry height="30" width="215" x="295" y="620" as="geometry" />
         </mxCell>
         <mxCell id="gNoqDgL6wOs1tMbOe2U7-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="发送100字节数据" vertex="1">
           <mxGeometry height="30" width="120" x="580" y="300" as="geometry" />
