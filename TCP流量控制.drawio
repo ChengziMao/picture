@@ -67,6 +67,15 @@
             <mxPoint x="280.1" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="gNoqDgL6wOs1tMbOe2U7-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="seq = 1,数据" vertex="1">
+          <mxGeometry height="30" width="100" x="300" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="gNoqDgL6wOs1tMbOe2U7-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="seq = 101,数据" vertex="1">
+          <mxGeometry height="30" width="100" x="300" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="gNoqDgL6wOs1tMbOe2U7-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ACK = 1，ack=201，rwnd=300" vertex="1">
+          <mxGeometry height="30" width="180" x="300" y="430" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
