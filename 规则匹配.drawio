@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.3">
   <diagram name="第 1 页" id="kFQvG-_jCio8lhkfUJK2">
-    <mxGraphModel>
+    <mxGraphModel dx="1426" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TZ-sjODpI3xyf-fTLU7O-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="规则名" vertex="1">
+          <mxGeometry height="30" width="140" x="140" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TZ-sjODpI3xyf-fTLU7O-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="规则描述" vertex="1">
+          <mxGeometry height="30" width="120" x="410" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TZ-sjODpI3xyf-fTLU7O-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="select:" vertex="1">
+          <mxGeometry height="50" width="110" x="155" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TZ-sjODpI3xyf-fTLU7O-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="select:" vertex="1">
+          <mxGeometry height="50" width="110" x="155" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="TZ-sjODpI3xyf-fTLU7O-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="result_columns:" vertex="1">
+          <mxGeometry height="50" width="110" x="155" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="TZ-sjODpI3xyf-fTLU7O-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="from_table:" vertex="1">
+          <mxGeometry height="50" width="110" x="155" y="380" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
