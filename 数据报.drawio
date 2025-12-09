@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.6">
   <diagram name="第 1 页" id="w-uvHyvJ7GLBzrjJg9NK">
-    <mxGraphModel>
+    <mxGraphModel dx="1426" dy="1920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="58hs8eERB1_rQYx98T5c-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15;" value="IP首部" vertex="1">
+          <mxGeometry height="60" width="120" x="140" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="58hs8eERB1_rQYx98T5c-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;" value="TCP首部" vertex="1">
+          <mxGeometry height="60" width="120" x="260" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="58hs8eERB1_rQYx98T5c-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;" value="TCP数据" vertex="1">
+          <mxGeometry height="60" width="220" x="380" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="58hs8eERB1_rQYx98T5c-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="20字节" vertex="1">
+          <mxGeometry height="30" width="60" x="170" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="58hs8eERB1_rQYx98T5c-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="20字节" vertex="1">
+          <mxGeometry height="30" width="60" x="290" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="58hs8eERB1_rQYx98T5c-6" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="260" y="120" as="sourcePoint" />
+            <mxPoint x="600" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="58hs8eERB1_rQYx98T5c-7" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="140" y="50" as="sourcePoint" />
+            <mxPoint x="600" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="58hs8eERB1_rQYx98T5c-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="TCP报文段" vertex="1">
+          <mxGeometry height="30" width="120" x="400" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="58hs8eERB1_rQYx98T5c-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="IP数据报" vertex="1">
+          <mxGeometry height="30" width="170" x="280" y="-10" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
