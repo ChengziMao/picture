@@ -1,0 +1,88 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7">
+  <diagram name="第 1 页" id="EvDvLnjrElLVkrT5Hehx">
+    <mxGraphModel dx="2253" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iYCHwRQGZ2vU_i5wAX4b-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="用户" vertex="1">
+          <mxGeometry height="90" width="90" x="210" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="iYCHwRQGZ2vU_i5wAX4b-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="内&lt;div&gt;核&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="90" x="570" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="iYCHwRQGZ2vU_i5wAX4b-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
+          <mxGeometry height="60" width="90" x="210" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="iYCHwRQGZ2vU_i5wAX4b-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
+          <mxGeometry height="320" width="90" x="210" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="iYCHwRQGZ2vU_i5wAX4b-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
+          <mxGeometry height="60" width="90" x="210" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="iYCHwRQGZ2vU_i5wAX4b-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
+          <mxGeometry height="380" width="90" x="570" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="iYCHwRQGZ2vU_i5wAX4b-7" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="309" y="280" as="sourcePoint" />
+            <mxPoint x="570" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iYCHwRQGZ2vU_i5wAX4b-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1- aio_read 系统调用" vertex="1">
+          <mxGeometry height="30" width="180" x="324" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="iYCHwRQGZ2vU_i5wAX4b-9" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="560" y="340" as="sourcePoint" />
+            <mxPoint x="310" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iYCHwRQGZ2vU_i5wAX4b-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="3 返回" vertex="1">
+          <mxGeometry height="30" width="60" x="350" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="iYCHwRQGZ2vU_i5wAX4b-11" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" value="" vertex="1">
+          <mxGeometry height="60" width="20" x="670" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="iYCHwRQGZ2vU_i5wAX4b-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2- 当前没数据，注册事件回调" vertex="1">
+          <mxGeometry height="30" width="190" x="690" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="iYCHwRQGZ2vU_i5wAX4b-13" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" value="" vertex="1">
+          <mxGeometry height="90" width="20" x="670" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="iYCHwRQGZ2vU_i5wAX4b-14" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" value="" vertex="1">
+          <mxGeometry height="120" width="20" x="670" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="iYCHwRQGZ2vU_i5wAX4b-15" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" value="" vertex="1">
+          <mxGeometry height="70" width="20" x="670" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="iYCHwRQGZ2vU_i5wAX4b-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="4- 等待数据" vertex="1">
+          <mxGeometry height="30" width="210" x="630" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="iYCHwRQGZ2vU_i5wAX4b-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="5- 数据准备好，从内核空间拷贝到用户空间" vertex="1">
+          <mxGeometry height="30" width="340" x="650" y="495" as="geometry" />
+        </mxCell>
+        <mxCell id="iYCHwRQGZ2vU_i5wAX4b-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="6- 数据拷贝完成" vertex="1">
+          <mxGeometry height="30" width="150" x="677" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="iYCHwRQGZ2vU_i5wAX4b-19" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="560" y="650" as="sourcePoint" />
+            <mxPoint x="310" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iYCHwRQGZ2vU_i5wAX4b-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="7- 提交 aio_read信号告诉数据拷贝完成" vertex="1">
+          <mxGeometry height="30" width="240" x="330" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="iYCHwRQGZ2vU_i5wAX4b-21" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" value="" vertex="1">
+          <mxGeometry height="370" width="20" x="180" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="iYCHwRQGZ2vU_i5wAX4b-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="整个过程都是非阻塞状态" vertex="1">
+          <mxGeometry height="30" width="190" x="-40" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="iYCHwRQGZ2vU_i5wAX4b-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="8- 进程处理" vertex="1">
+          <mxGeometry height="30" width="140" x="40" y="660" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
