@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
+  <diagram name="第 1 页" id="BmIKdaZzBXzIx5IBon7E">
+    <mxGraphModel dx="1426" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Uz989qH0rZ8AsZSJo5GF-6" edge="1" parent="1" source="Uz989qH0rZ8AsZSJo5GF-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" target="Uz989qH0rZ8AsZSJo5GF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uz989qH0rZ8AsZSJo5GF-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" value="HTTP 0.9&lt;div&gt;1991年&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="Uz989qH0rZ8AsZSJo5GF-7" edge="1" parent="1" source="Uz989qH0rZ8AsZSJo5GF-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" target="Uz989qH0rZ8AsZSJo5GF-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uz989qH0rZ8AsZSJo5GF-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" value="HTTP 1.0&lt;div&gt;1996年&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="270" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="Uz989qH0rZ8AsZSJo5GF-8" edge="1" parent="1" source="Uz989qH0rZ8AsZSJo5GF-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" target="Uz989qH0rZ8AsZSJo5GF-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uz989qH0rZ8AsZSJo5GF-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" value="HTTP 1.1&lt;div&gt;1997年&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="490" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="Uz989qH0rZ8AsZSJo5GF-9" edge="1" parent="1" source="Uz989qH0rZ8AsZSJo5GF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" target="Uz989qH0rZ8AsZSJo5GF-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uz989qH0rZ8AsZSJo5GF-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" value="HTTP 2.0&lt;div&gt;2015年&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="720" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="Uz989qH0rZ8AsZSJo5GF-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" value="HTTP 3.0&lt;div&gt;2018年&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="930" y="250" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
