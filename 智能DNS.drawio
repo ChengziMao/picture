@@ -1,0 +1,61 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
+  <diagram name="第 1 页" id="boaLGvDkF3Y9YP_KV_P9">
+    <mxGraphModel dx="1426" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="i2VFd91bFrBtXhoJb-R7-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=15;" value="老王，在广州某间浴足店" vertex="1">
+          <mxGeometry height="60" width="30" x="150" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="i2VFd91bFrBtXhoJb-R7-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=15;" value="大钊，在上海某间浴足店" vertex="1">
+          <mxGeometry height="60" width="30" x="150" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="i2VFd91bFrBtXhoJb-R7-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" value="广州机房（默认）" vertex="1">
+          <mxGeometry height="60" width="120" x="600" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="i2VFd91bFrBtXhoJb-R7-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" value="上海机房" vertex="1">
+          <mxGeometry height="60" width="120" x="600" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="i2VFd91bFrBtXhoJb-R7-9" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=15;" value="智能DNS解析" vertex="1">
+          <mxGeometry height="80" width="120" x="354" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="i2VFd91bFrBtXhoJb-R7-10" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=15;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="260" y="99.5" as="sourcePoint" />
+            <mxPoint x="590" y="99.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i2VFd91bFrBtXhoJb-R7-11" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=15;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="410" y="100" as="sourcePoint" />
+            <mxPoint x="410" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i2VFd91bFrBtXhoJb-R7-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="119.32.21.128" vertex="1">
+          <mxGeometry height="30" width="60" x="430" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="i2VFd91bFrBtXhoJb-R7-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="访问 xdclass.net 解析就近机房" vertex="1">
+          <mxGeometry height="30" width="130" x="250" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="i2VFd91bFrBtXhoJb-R7-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="访问 xdclass.net 解析就近机房" vertex="1">
+          <mxGeometry height="30" width="130" x="240" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="i2VFd91bFrBtXhoJb-R7-16" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=15;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="200" y="570" as="sourcePoint" />
+            <mxPoint x="590" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i2VFd91bFrBtXhoJb-R7-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="110.23.1.1" vertex="1">
+          <mxGeometry height="30" width="60" x="440" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="i2VFd91bFrBtXhoJb-R7-18" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=15;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="410" y="570" as="sourcePoint" />
+            <mxPoint x="410" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
