@@ -1,0 +1,148 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
+  <diagram name="第 1 页" id="Wx6cYR8WZdLP_mJdIxVu">
+    <mxGraphModel dx="2253" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ayw98OVrN4cmkHWSicl1-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="" vertex="1">
+          <mxGeometry height="150" width="266" x="294" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="Ayw98OVrN4cmkHWSicl1-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="" vertex="1">
+          <mxGeometry height="180" width="266" x="294" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Ayw98OVrN4cmkHWSicl1-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="" vertex="1">
+          <mxGeometry height="150" width="266" x="294" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ayw98OVrN4cmkHWSicl1-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#e21818, #ededed);fontSize=15;" value="" vertex="1">
+          <mxGeometry height="100" width="90" x="-20" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Ayw98OVrN4cmkHWSicl1-2" parent="1" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.cwh_cloud_web_hosting;fontSize=15;" value="" vertex="1">
+          <mxGeometry height="62" width="67.71" x="-3.8599999999999994" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Ayw98OVrN4cmkHWSicl1-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#e21818, #ededed);fontSize=15;" value="" vertex="1">
+          <mxGeometry height="100" width="90" x="660" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Ayw98OVrN4cmkHWSicl1-4" parent="1" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.cwh_cloud_web_hosting;fontSize=15;" value="" vertex="1">
+          <mxGeometry height="62" width="67.71" x="676.14" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Ayw98OVrN4cmkHWSicl1-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="客户端" vertex="1">
+          <mxGeometry height="30" width="60" x="-5" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="Ayw98OVrN4cmkHWSicl1-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="服务器" vertex="1">
+          <mxGeometry height="30" width="60" x="675" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="Ayw98OVrN4cmkHWSicl1-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="TCP建立连接" vertex="1">
+          <mxGeometry height="30" width="130" x="155" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Ayw98OVrN4cmkHWSicl1-21" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=15;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="80" as="sourcePoint" />
+            <mxPoint x="520" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ayw98OVrN4cmkHWSicl1-22" connectable="0" parent="Ayw98OVrN4cmkHWSicl1-21" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=15;" value="SYN" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ayw98OVrN4cmkHWSicl1-25" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=15;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="150" as="sourcePoint" />
+            <mxPoint x="520" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ayw98OVrN4cmkHWSicl1-26" connectable="0" parent="Ayw98OVrN4cmkHWSicl1-25" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=15;" value="ACK" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ayw98OVrN4cmkHWSicl1-28" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=15;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="120" as="sourcePoint" />
+            <mxPoint x="330" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ayw98OVrN4cmkHWSicl1-29" connectable="0" parent="Ayw98OVrN4cmkHWSicl1-28" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=15;" value="SYN/ACK" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ayw98OVrN4cmkHWSicl1-31" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=15;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="332" y="240" as="sourcePoint" />
+            <mxPoint x="522" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ayw98OVrN4cmkHWSicl1-32" connectable="0" parent="Ayw98OVrN4cmkHWSicl1-31" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=15;" value="HTTP请求" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ayw98OVrN4cmkHWSicl1-33" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=15;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="522" y="269.5" as="sourcePoint" />
+            <mxPoint x="332" y="269.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ayw98OVrN4cmkHWSicl1-34" connectable="0" parent="Ayw98OVrN4cmkHWSicl1-33" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=15;" value="HTTP响应" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ayw98OVrN4cmkHWSicl1-35" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=15;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="332" y="301" as="sourcePoint" />
+            <mxPoint x="522" y="301" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ayw98OVrN4cmkHWSicl1-36" connectable="0" parent="Ayw98OVrN4cmkHWSicl1-35" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=15;" value="HTTP请求" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ayw98OVrN4cmkHWSicl1-37" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=15;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="522" y="330" as="sourcePoint" />
+            <mxPoint x="332" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ayw98OVrN4cmkHWSicl1-38" connectable="0" parent="Ayw98OVrN4cmkHWSicl1-37" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=15;" value="HTTP响应" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ayw98OVrN4cmkHWSicl1-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="......." vertex="1">
+          <mxGeometry height="30" width="60" x="397" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="Ayw98OVrN4cmkHWSicl1-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="HTTP数据传输" vertex="1">
+          <mxGeometry height="30" width="120" x="155" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="Ayw98OVrN4cmkHWSicl1-42" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=15;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="332" y="470" as="sourcePoint" />
+            <mxPoint x="522" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ayw98OVrN4cmkHWSicl1-43" connectable="0" parent="Ayw98OVrN4cmkHWSicl1-42" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=15;" value="FIN" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ayw98OVrN4cmkHWSicl1-44" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=15;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="522" y="500" as="sourcePoint" />
+            <mxPoint x="332" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ayw98OVrN4cmkHWSicl1-45" connectable="0" parent="Ayw98OVrN4cmkHWSicl1-44" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=15;" value="ACK" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ayw98OVrN4cmkHWSicl1-46" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=15;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="332" y="530" as="sourcePoint" />
+            <mxPoint x="522" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ayw98OVrN4cmkHWSicl1-47" connectable="0" parent="Ayw98OVrN4cmkHWSicl1-46" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=15;" value="FIN" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ayw98OVrN4cmkHWSicl1-48" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=15;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="522" y="560" as="sourcePoint" />
+            <mxPoint x="332" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ayw98OVrN4cmkHWSicl1-49" connectable="0" parent="Ayw98OVrN4cmkHWSicl1-48" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=15;" value="ACK" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ayw98OVrN4cmkHWSicl1-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="TCP断开连接" vertex="1">
+          <mxGeometry height="30" width="130" x="150" y="510" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
