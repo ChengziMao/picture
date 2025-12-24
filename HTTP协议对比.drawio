@@ -1,9 +1,78 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
   <diagram name="第 1 页" id="dd5jCY1PFWm13bEnYww-">
-    <mxGraphModel>
+    <mxGraphModel dx="1426" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="n80uvSTB4D9Nw6LzxO_N-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;fontSize=15;" value="应用层 HTTP" vertex="1">
+          <mxGeometry height="210" width="150" x="110" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="n80uvSTB4D9Nw6LzxO_N-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;fontSize=15;" value="应用层 HTTP" vertex="1">
+          <mxGeometry height="150" width="150" x="320" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="n80uvSTB4D9Nw6LzxO_N-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;fontSize=15;" value="SSL/TLS" vertex="1">
+          <mxGeometry height="60" width="150" x="320" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="n80uvSTB4D9Nw6LzxO_N-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;fontSize=15;" value="应用层 HTTP" vertex="1">
+          <mxGeometry height="150" width="150" x="560" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="n80uvSTB4D9Nw6LzxO_N-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;fontSize=15;" value="SSL/TLS 1.2" vertex="1">
+          <mxGeometry height="60" width="150" x="560" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="n80uvSTB4D9Nw6LzxO_N-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;fontSize=15;" value="应用层 HTTP" vertex="1">
+          <mxGeometry height="150" width="150" x="810" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="n80uvSTB4D9Nw6LzxO_N-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;fontSize=15;" value="QUIC" vertex="1">
+          <mxGeometry height="60" width="150" x="810" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="n80uvSTB4D9Nw6LzxO_N-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15;" value="传输层 TCP" vertex="1">
+          <mxGeometry height="60" width="150" x="110" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="n80uvSTB4D9Nw6LzxO_N-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15;" value="网际层 IP" vertex="1">
+          <mxGeometry height="60" width="150" x="110" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="n80uvSTB4D9Nw6LzxO_N-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;" value="网络接口层 MAC" vertex="1">
+          <mxGeometry height="90" width="150" x="110" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="n80uvSTB4D9Nw6LzxO_N-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15;" value="传输层 TCP" vertex="1">
+          <mxGeometry height="60" width="150" x="320" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="n80uvSTB4D9Nw6LzxO_N-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15;" value="网际层 IP" vertex="1">
+          <mxGeometry height="60" width="150" x="320" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="n80uvSTB4D9Nw6LzxO_N-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;" value="网络接口层 MAC" vertex="1">
+          <mxGeometry height="90" width="150" x="320" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="n80uvSTB4D9Nw6LzxO_N-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15;" value="传输层 TCP" vertex="1">
+          <mxGeometry height="60" width="150" x="560" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="n80uvSTB4D9Nw6LzxO_N-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15;" value="网际层 IP" vertex="1">
+          <mxGeometry height="60" width="150" x="560" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="n80uvSTB4D9Nw6LzxO_N-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;" value="网络接口层 MAC" vertex="1">
+          <mxGeometry height="90" width="150" x="560" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="n80uvSTB4D9Nw6LzxO_N-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15;" value="传输层 TCP" vertex="1">
+          <mxGeometry height="60" width="150" x="810" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="n80uvSTB4D9Nw6LzxO_N-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15;" value="网际层 IP" vertex="1">
+          <mxGeometry height="60" width="150" x="810" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="n80uvSTB4D9Nw6LzxO_N-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;" value="网络接口层 MAC" vertex="1">
+          <mxGeometry height="90" width="150" x="810" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="n80uvSTB4D9Nw6LzxO_N-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="HTTP/1.1协议" vertex="1">
+          <mxGeometry height="30" width="140" x="110" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="n80uvSTB4D9Nw6LzxO_N-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="HTTPS协议" vertex="1">
+          <mxGeometry height="30" width="140" x="320" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="n80uvSTB4D9Nw6LzxO_N-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="HTTP2协议" vertex="1">
+          <mxGeometry height="30" width="140" x="560" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="n80uvSTB4D9Nw6LzxO_N-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="HTTP3协议" vertex="1">
+          <mxGeometry height="30" width="140" x="815" y="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
