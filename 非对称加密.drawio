@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
+  <diagram name="第 1 页" id="tQfU5doqxl17CbZxJi9D">
+    <mxGraphModel dx="1426" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qiytCbg3V4Q9zYkWeUTk-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=15;" value="老王" vertex="1">
+          <mxGeometry height="60" width="30" x="170" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="qiytCbg3V4Q9zYkWeUTk-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=15;" value="小D" vertex="1">
+          <mxGeometry height="60" width="30" x="670" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="qiytCbg3V4Q9zYkWeUTk-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" value="小冰" vertex="1">
+          <mxGeometry height="60" width="30" x="430" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="qiytCbg3V4Q9zYkWeUTk-4" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=15;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="210" y="250" as="sourcePoint" />
+            <mxPoint x="660" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qiytCbg3V4Q9zYkWeUTk-5" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=15;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="440" y="380" as="sourcePoint" />
+            <mxPoint x="440" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qiytCbg3V4Q9zYkWeUTk-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="窃听" vertex="1">
+          <mxGeometry height="30" width="60" x="430" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="qiytCbg3V4Q9zYkWeUTk-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="用PUB加密" vertex="1">
+          <mxGeometry height="30" width="120" x="240" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="qiytCbg3V4Q9zYkWeUTk-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="用pri解密" vertex="1">
+          <mxGeometry height="30" width="110" x="500" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="qiytCbg3V4Q9zYkWeUTk-10" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;curved=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="40" />
+            </Array>
+            <mxPoint x="680" y="190" as="sourcePoint" />
+            <mxPoint x="190" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qiytCbg3V4Q9zYkWeUTk-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="事先把pub公钥发给老王" vertex="1">
+          <mxGeometry height="30" width="240" x="325" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qiytCbg3V4Q9zYkWeUTk-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="#wer2*&amp;amp;2A" vertex="1">
+          <mxGeometry height="30" width="60" x="265" y="210" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
