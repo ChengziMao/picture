@@ -1,0 +1,47 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.4">
+  <diagram name="第 1 页" id="pCBxMpkidFHEspxb1Mp1">
+    <mxGraphModel dx="1426" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WjSkKMhSnqiNHoxV0-nn-12" edge="1" parent="1" source="WjSkKMhSnqiNHoxV0-nn-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" target="WjSkKMhSnqiNHoxV0-nn-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="240" />
+              <mxPoint x="520" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WjSkKMhSnqiNHoxV0-nn-13" edge="1" parent="1" source="WjSkKMhSnqiNHoxV0-nn-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" target="WjSkKMhSnqiNHoxV0-nn-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="250" />
+              <mxPoint x="270" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WjSkKMhSnqiNHoxV0-nn-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Animal" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="WjSkKMhSnqiNHoxV0-nn-8" edge="1" parent="1" source="WjSkKMhSnqiNHoxV0-nn-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="WjSkKMhSnqiNHoxV0-nn-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WjSkKMhSnqiNHoxV0-nn-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Dog" vertex="1">
+          <mxGeometry height="60" width="120" x="210" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="WjSkKMhSnqiNHoxV0-nn-10" edge="1" parent="1" source="WjSkKMhSnqiNHoxV0-nn-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WjSkKMhSnqiNHoxV0-nn-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WjSkKMhSnqiNHoxV0-nn-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Cat" vertex="1">
+          <mxGeometry height="60" width="120" x="460" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="WjSkKMhSnqiNHoxV0-nn-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="导盲犬" vertex="1">
+          <mxGeometry height="60" width="120" x="210" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="WjSkKMhSnqiNHoxV0-nn-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="波斯猫" vertex="1">
+          <mxGeometry height="60" width="120" x="460" y="430" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
