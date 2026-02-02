@@ -4,6 +4,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WnNZjhFkhv7WgnJ9yGcj-8" edge="1" parent="1" source="WnNZjhFkhv7WgnJ9yGcj-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="WnNZjhFkhv7WgnJ9yGcj-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WnNZjhFkhv7WgnJ9yGcj-9" edge="1" parent="1" source="WnNZjhFkhv7WgnJ9yGcj-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="WnNZjhFkhv7WgnJ9yGcj-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WnNZjhFkhv7WgnJ9yGcj-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="LangGraph" vertex="1">
           <mxGeometry height="60" width="120" x="160" y="200" as="geometry" />
         </mxCell>
@@ -23,7 +29,16 @@
           <mxGeometry height="60" width="120" x="620" y="330" as="geometry" />
         </mxCell>
         <mxCell id="WnNZjhFkhv7WgnJ9yGcj-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Spring State Machine" vertex="1">
-          <mxGeometry height="60" width="120" x="1010" y="330" as="geometry" />
+          <mxGeometry height="60" width="190" x="1000" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="WnNZjhFkhv7WgnJ9yGcj-10" edge="1" parent="1" source="WnNZjhFkhv7WgnJ9yGcj-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.583;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="WnNZjhFkhv7WgnJ9yGcj-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WnNZjhFkhv7WgnJ9yGcj-11" edge="1" parent="1" source="WnNZjhFkhv7WgnJ9yGcj-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.392;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="WnNZjhFkhv7WgnJ9yGcj-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WnNZjhFkhv7WgnJ9yGcj-12" edge="1" parent="1" source="WnNZjhFkhv7WgnJ9yGcj-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.537;entryY=0.083;entryDx=0;entryDy=0;entryPerimeter=0;" target="WnNZjhFkhv7WgnJ9yGcj-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
