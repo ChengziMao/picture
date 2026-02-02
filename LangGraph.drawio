@@ -1,9 +1,30 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.6">
   <diagram name="第 1 页" id="5BzmbOD4vitTGVonEbFo">
-    <mxGraphModel>
+    <mxGraphModel dx="2253" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WnNZjhFkhv7WgnJ9yGcj-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="LangGraph" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="WnNZjhFkhv7WgnJ9yGcj-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="java对标" vertex="1">
+          <mxGeometry height="60" width="120" x="820" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="WnNZjhFkhv7WgnJ9yGcj-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="工作流编排" vertex="1">
+          <mxGeometry height="60" width="120" x="-40" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="WnNZjhFkhv7WgnJ9yGcj-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="状态管理" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="WnNZjhFkhv7WgnJ9yGcj-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="分支逻辑" vertex="1">
+          <mxGeometry height="60" width="120" x="390" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="WnNZjhFkhv7WgnJ9yGcj-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Camunda" vertex="1">
+          <mxGeometry height="60" width="120" x="620" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="WnNZjhFkhv7WgnJ9yGcj-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Spring State Machine" vertex="1">
+          <mxGeometry height="60" width="120" x="1010" y="330" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
