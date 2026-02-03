@@ -1,0 +1,78 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.6">
+  <diagram name="第 1 页" id="J6K6b0HNusRhMEy4BM_o">
+    <mxGraphModel dx="1426" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="J1Iiy4ti5H3zOY6YG1xe-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=15;" value="Format格式化" vertex="1">
+          <mxGeometry height="300" width="580" x="30" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="J1Iiy4ti5H3zOY6YG1xe-6" edge="1" parent="1" source="J1Iiy4ti5H3zOY6YG1xe-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" target="J1Iiy4ti5H3zOY6YG1xe-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J1Iiy4ti5H3zOY6YG1xe-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="x=老王，y=冰冰" vertex="1">
+          <mxGeometry height="60" width="190" x="50" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="J1Iiy4ti5H3zOY6YG1xe-7" edge="1" parent="1" source="J1Iiy4ti5H3zOY6YG1xe-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" target="J1Iiy4ti5H3zOY6YG1xe-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J1Iiy4ti5H3zOY6YG1xe-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="（X）是否喜欢（y）&lt;div&gt;为什么？&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="190" x="50" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="J1Iiy4ti5H3zOY6YG1xe-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" value="老王是否喜欢冰冰&lt;div&gt;为什么？&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="220" x="360" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="J1Iiy4ti5H3zOY6YG1xe-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=15;" value="Predict预测" vertex="1">
+          <mxGeometry height="300" width="420" x="740" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="J1Iiy4ti5H3zOY6YG1xe-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="LLM" vertex="1">
+          <mxGeometry height="60" width="120" x="940" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="J1Iiy4ti5H3zOY6YG1xe-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="Chat Model" vertex="1">
+          <mxGeometry height="60" width="120" x="940" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="J1Iiy4ti5H3zOY6YG1xe-11" edge="1" parent="1" source="J1Iiy4ti5H3zOY6YG1xe-8" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" target="J1Iiy4ti5H3zOY6YG1xe-9" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="820" y="330" />
+              <mxPoint x="820" y="270" />
+            </Array>
+            <mxPoint x="830" y="340" as="sourcePoint" />
+            <mxPoint x="880" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J1Iiy4ti5H3zOY6YG1xe-12" edge="1" parent="1" source="J1Iiy4ti5H3zOY6YG1xe-8" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" target="J1Iiy4ti5H3zOY6YG1xe-10" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="820" y="330" />
+              <mxPoint x="820" y="400" />
+            </Array>
+            <mxPoint x="870" y="420" as="sourcePoint" />
+            <mxPoint x="1070" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J1Iiy4ti5H3zOY6YG1xe-13" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=15;fontSize=15;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="620" y="329.5" as="sourcePoint" />
+            <mxPoint x="720" y="329.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J1Iiy4ti5H3zOY6YG1xe-14" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=15;fontSize=15;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1180" y="329.5" as="sourcePoint" />
+            <mxPoint x="1280" y="329.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J1Iiy4ti5H3zOY6YG1xe-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=15;" value="Parse解析&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&quot;reason&quot;：”小滴课堂同事还很多年轻帅气的“，&lt;br&gt;&lt;/div&gt;&lt;div&gt;”like“：”暂时单身贵族“.....&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;}&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="300" width="370" x="1310" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="J1Iiy4ti5H3zOY6YG1xe-16" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontSize=15;" value="" vertex="1">
+          <mxGeometry height="200" width="20" x="1340" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="J1Iiy4ti5H3zOY6YG1xe-17" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;legacyAnchorPoints=0;fontSize=15;" value="" vertex="1">
+          <mxGeometry height="200" width="20" x="1654" y="230" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
