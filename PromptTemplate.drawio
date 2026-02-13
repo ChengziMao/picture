@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.3.8">
+  <diagram name="第 1 页" id="d6zPuFqavVCNKddSLSb8">
+    <mxGraphModel dx="1213" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3Io8oIo_FuY5k4oDO8UM-5" edge="1" parent="1" source="AD0wUCTk2KynO84yhzcM-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="3Io8oIo_FuY5k4oDO8UM-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AD0wUCTk2KynO84yhzcM-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="输入变量" vertex="1">
+          <mxGeometry height="60" width="160" x="90" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="3Io8oIo_FuY5k4oDO8UM-6" edge="1" parent="1" source="3Io8oIo_FuY5k4oDO8UM-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="3Io8oIo_FuY5k4oDO8UM-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Io8oIo_FuY5k4oDO8UM-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="PromptTemplate" vertex="1">
+          <mxGeometry height="60" width="160" x="300" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="3Io8oIo_FuY5k4oDO8UM-7" edge="1" parent="1" source="3Io8oIo_FuY5k4oDO8UM-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="3Io8oIo_FuY5k4oDO8UM-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Io8oIo_FuY5k4oDO8UM-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="结构化Prompt" vertex="1">
+          <mxGeometry height="60" width="160" x="520" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="3Io8oIo_FuY5k4oDO8UM-8" edge="1" parent="1" source="3Io8oIo_FuY5k4oDO8UM-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="3Io8oIo_FuY5k4oDO8UM-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Io8oIo_FuY5k4oDO8UM-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="大模型" vertex="1">
+          <mxGeometry height="60" width="160" x="740" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="3Io8oIo_FuY5k4oDO8UM-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="标准化模型" vertex="1">
+          <mxGeometry height="60" width="160" x="970" y="230" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
