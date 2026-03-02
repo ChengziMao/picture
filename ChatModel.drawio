@@ -1,0 +1,72 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.0">
+  <diagram name="第 1 页" id="_L-Ep_hKvtcUo-mks3UA">
+    <mxGraphModel dx="2253" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="K_pfNx5i5NCs77lpTj72-14" edge="1" parent="1" source="K_pfNx5i5NCs77lpTj72-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;fontSize=15;" target="K_pfNx5i5NCs77lpTj72-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K_pfNx5i5NCs77lpTj72-15" edge="1" parent="1" source="K_pfNx5i5NCs77lpTj72-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;fontSize=15;" target="K_pfNx5i5NCs77lpTj72-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="200" />
+              <mxPoint x="180" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K_pfNx5i5NCs77lpTj72-16" edge="1" parent="1" source="K_pfNx5i5NCs77lpTj72-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;fontSize=15;" target="K_pfNx5i5NCs77lpTj72-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="190" />
+              <mxPoint x="430" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K_pfNx5i5NCs77lpTj72-17" edge="1" parent="1" source="K_pfNx5i5NCs77lpTj72-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;fontSize=15;" target="K_pfNx5i5NCs77lpTj72-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K_pfNx5i5NCs77lpTj72-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="ChatModel" vertex="1">
+          <mxGeometry height="60" width="200" x="160" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="K_pfNx5i5NCs77lpTj72-18" edge="1" parent="1" source="K_pfNx5i5NCs77lpTj72-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;fontSize=15;" target="K_pfNx5i5NCs77lpTj72-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1020" y="200" />
+              <mxPoint x="910" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K_pfNx5i5NCs77lpTj72-19" edge="1" parent="1" source="K_pfNx5i5NCs77lpTj72-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;fontSize=15;" target="K_pfNx5i5NCs77lpTj72-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1120" y="200" />
+              <mxPoint x="1241" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K_pfNx5i5NCs77lpTj72-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="基础LLM" vertex="1">
+          <mxGeometry height="60" width="200" x="970" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="K_pfNx5i5NCs77lpTj72-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="结构化消息输入" vertex="1">
+          <mxGeometry height="60" width="200" x="-160" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="K_pfNx5i5NCs77lpTj72-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="对话历史管理" vertex="1">
+          <mxGeometry height="60" width="200" x="80" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="K_pfNx5i5NCs77lpTj72-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="角色感知响应" vertex="1">
+          <mxGeometry height="60" width="200" x="330" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="K_pfNx5i5NCs77lpTj72-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="函数调用支持" vertex="1">
+          <mxGeometry height="60" width="200" x="570" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="K_pfNx5i5NCs77lpTj72-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="纯文本输入" vertex="1">
+          <mxGeometry height="60" width="200" x="810" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="K_pfNx5i5NCs77lpTj72-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="无状态处理" vertex="1">
+          <mxGeometry height="60" width="200" x="1141" y="270" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
