@@ -4,20 +4,59 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="saOz5NPpl2db1WCAjpEH-1" edge="1" parent="1" source="-fJ5VSsBdVLpBrewSwS0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="-fJ5VSsBdVLpBrewSwS0-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-fJ5VSsBdVLpBrewSwS0-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="原始输出" vertex="1">
           <mxGeometry height="60" width="120" x="120" y="300" as="geometry" />
         </mxCell>
+        <mxCell id="saOz5NPpl2db1WCAjpEH-2" edge="1" parent="1" source="-fJ5VSsBdVLpBrewSwS0-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" target="-fJ5VSsBdVLpBrewSwS0-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="423" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="saOz5NPpl2db1WCAjpEH-11" connectable="0" parent="saOz5NPpl2db1WCAjpEH-2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="是" vertex="1">
+          <mxGeometry relative="1" x="0.6563" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="saOz5NPpl2db1WCAjpEH-3" edge="1" parent="1" source="-fJ5VSsBdVLpBrewSwS0-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="-fJ5VSsBdVLpBrewSwS0-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="saOz5NPpl2db1WCAjpEH-12" connectable="0" parent="saOz5NPpl2db1WCAjpEH-3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="否" vertex="1">
+          <mxGeometry relative="1" x="0.0133" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-fJ5VSsBdVLpBrewSwS0-2" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="解析成功" vertex="1">
-          <mxGeometry height="110" width="110" x="340" y="270" as="geometry" />
+          <mxGeometry height="110" width="110" x="320" y="275" as="geometry" />
         </mxCell>
         <mxCell id="-fJ5VSsBdVLpBrewSwS0-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="返回结果" vertex="1">
           <mxGeometry height="60" width="120" x="580" y="130" as="geometry" />
         </mxCell>
         <mxCell id="-fJ5VSsBdVLpBrewSwS0-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="调用LLM修复" vertex="1">
-          <mxGeometry height="60" width="120" x="580" y="260" as="geometry" />
+          <mxGeometry height="60" width="120" x="580" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="-fJ5VSsBdVLpBrewSwS0-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="840" y="320" as="geometry" />
+        <mxCell id="saOz5NPpl2db1WCAjpEH-14" edge="1" parent="1" source="-fJ5VSsBdVLpBrewSwS0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;curved=1;" target="-fJ5VSsBdVLpBrewSwS0-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="880" y="400" />
+              <mxPoint x="403" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-fJ5VSsBdVLpBrewSwS0-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="再次解析" vertex="1">
+          <mxGeometry height="60" width="120" x="880" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="saOz5NPpl2db1WCAjpEH-13" edge="1" parent="1" source="-fJ5VSsBdVLpBrewSwS0-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.367;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;strokeColor=default;" target="-fJ5VSsBdVLpBrewSwS0-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="330" />
+              <mxPoint x="810" y="347" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
