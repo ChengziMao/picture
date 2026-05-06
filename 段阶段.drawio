@@ -7,17 +7,17 @@
         <mxCell id="944NdiYmks0i5qrIaW7b-5" edge="1" parent="1" source="944NdiYmks0i5qrIaW7b-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" target="944NdiYmks0i5qrIaW7b-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="944NdiYmks0i5qrIaW7b-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="分片1" vertex="1">
+        <mxCell id="944NdiYmks0i5qrIaW7b-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="分片1" vertex="1">
           <mxGeometry height="60" width="120" x="140" y="310" as="geometry" />
         </mxCell>
-        <mxCell id="944NdiYmks0i5qrIaW7b-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="SegmentA ：1万条" vertex="1">
-          <mxGeometry height="60" width="120" x="420" y="210" as="geometry" />
+        <mxCell id="944NdiYmks0i5qrIaW7b-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="SegmentA ：1万条" vertex="1">
+          <mxGeometry height="60" width="160" x="420" y="210" as="geometry" />
         </mxCell>
-        <mxCell id="944NdiYmks0i5qrIaW7b-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="SegmentB ：1万条" vertex="1">
-          <mxGeometry height="60" width="120" x="420" y="310" as="geometry" />
+        <mxCell id="944NdiYmks0i5qrIaW7b-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="SegmentB ：1万条" vertex="1">
+          <mxGeometry height="60" width="160" x="420" y="310" as="geometry" />
         </mxCell>
-        <mxCell id="944NdiYmks0i5qrIaW7b-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="SegmentC ：1.3万条" vertex="1">
-          <mxGeometry height="60" width="120" x="420" y="420" as="geometry" />
+        <mxCell id="944NdiYmks0i5qrIaW7b-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="SegmentC ：1.3万条" vertex="1">
+          <mxGeometry height="60" width="160" x="420" y="420" as="geometry" />
         </mxCell>
         <mxCell id="944NdiYmks0i5qrIaW7b-6" edge="1" parent="1" source="944NdiYmks0i5qrIaW7b-1" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;fontSize=15;" target="944NdiYmks0i5qrIaW7b-2" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
