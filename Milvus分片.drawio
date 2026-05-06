@@ -1,0 +1,133 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="4VyZWSVvPvQH94YASrrT">
+    <mxGraphModel dx="2241" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pRInpRH_bhrLjkbqyCdF-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;" value="Collection" vertex="1">
+          <mxGeometry height="60" width="160" x="340" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="pRInpRH_bhrLjkbqyCdF-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;" value="Partition1" vertex="1">
+          <mxGeometry height="60" width="160" x="130" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="pRInpRH_bhrLjkbqyCdF-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;" value="Partition2" vertex="1">
+          <mxGeometry height="60" width="160" x="550" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="pRInpRH_bhrLjkbqyCdF-4" edge="1" parent="1" source="pRInpRH_bhrLjkbqyCdF-1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;curved=1;fontSize=15;" target="pRInpRH_bhrLjkbqyCdF-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="240" />
+            </Array>
+            <mxPoint x="270" y="220" as="sourcePoint" />
+            <mxPoint x="320" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pRInpRH_bhrLjkbqyCdF-5" edge="1" parent="1" source="pRInpRH_bhrLjkbqyCdF-1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.563;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;fontSize=15;" target="pRInpRH_bhrLjkbqyCdF-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="250" />
+            </Array>
+            <mxPoint x="660" y="280" as="sourcePoint" />
+            <mxPoint x="710" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pRInpRH_bhrLjkbqyCdF-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;rounded=0;fontColor=#333333;fontSize=15;" value="划分为" vertex="1">
+          <mxGeometry height="30" width="60" x="180" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="pRInpRH_bhrLjkbqyCdF-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;rounded=0;fontColor=#333333;fontSize=15;" value="划分为" vertex="1">
+          <mxGeometry height="30" width="60" x="570" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="pRInpRH_bhrLjkbqyCdF-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;" value="Shard A-1" vertex="1">
+          <mxGeometry height="60" width="160" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="pRInpRH_bhrLjkbqyCdF-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;" value="Shard A-2" vertex="1">
+          <mxGeometry height="60" width="160" x="260" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="pRInpRH_bhrLjkbqyCdF-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;" value="Shard B-1" vertex="1">
+          <mxGeometry height="60" width="160" x="450" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="pRInpRH_bhrLjkbqyCdF-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;" value="Shard B-2" vertex="1">
+          <mxGeometry height="60" width="160" x="680" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="pRInpRH_bhrLjkbqyCdF-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;" value="Segment 1" vertex="1">
+          <mxGeometry height="60" width="160" x="-130" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="pRInpRH_bhrLjkbqyCdF-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;" value="Segment 2" vertex="1">
+          <mxGeometry height="60" width="160" x="120" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="pRInpRH_bhrLjkbqyCdF-15" edge="1" parent="1" source="pRInpRH_bhrLjkbqyCdF-2" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;curved=1;fontSize=15;" target="pRInpRH_bhrLjkbqyCdF-9" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="440" />
+            </Array>
+            <mxPoint x="50" y="430" as="sourcePoint" />
+            <mxPoint x="100" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pRInpRH_bhrLjkbqyCdF-16" edge="1" parent="1" source="pRInpRH_bhrLjkbqyCdF-2" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;fontSize=15;" target="pRInpRH_bhrLjkbqyCdF-10" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="440" />
+            </Array>
+            <mxPoint x="430" y="440" as="sourcePoint" />
+            <mxPoint x="480" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pRInpRH_bhrLjkbqyCdF-17" edge="1" parent="1" source="pRInpRH_bhrLjkbqyCdF-3" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;fontSize=15;" target="pRInpRH_bhrLjkbqyCdF-11" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="440" />
+            </Array>
+            <mxPoint x="440" y="450" as="sourcePoint" />
+            <mxPoint x="490" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pRInpRH_bhrLjkbqyCdF-18" edge="1" parent="1" source="pRInpRH_bhrLjkbqyCdF-3" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;fontSize=15;" target="pRInpRH_bhrLjkbqyCdF-12" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="430" />
+            </Array>
+            <mxPoint x="850" y="470" as="sourcePoint" />
+            <mxPoint x="900" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pRInpRH_bhrLjkbqyCdF-19" edge="1" parent="1" source="pRInpRH_bhrLjkbqyCdF-9" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;fontSize=15;" target="pRInpRH_bhrLjkbqyCdF-13" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="-40" y="590" />
+            </Array>
+            <mxPoint x="-180" y="600" as="sourcePoint" />
+            <mxPoint x="-130" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pRInpRH_bhrLjkbqyCdF-20" edge="1" parent="1" source="pRInpRH_bhrLjkbqyCdF-9" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;fontSize=15;" target="pRInpRH_bhrLjkbqyCdF-14" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="590" />
+            </Array>
+            <mxPoint x="240" y="620" as="sourcePoint" />
+            <mxPoint x="290" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pRInpRH_bhrLjkbqyCdF-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;rounded=0;fontColor=#333333;fontSize=15;" value="拆分为" vertex="1">
+          <mxGeometry height="30" width="60" x="70" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="pRInpRH_bhrLjkbqyCdF-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;rounded=0;fontColor=#333333;fontSize=15;" value="拆分为" vertex="1">
+          <mxGeometry height="30" width="60" x="300" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="pRInpRH_bhrLjkbqyCdF-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;rounded=0;fontColor=#333333;fontSize=15;" value="拆分为" vertex="1">
+          <mxGeometry height="30" width="60" x="500" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="pRInpRH_bhrLjkbqyCdF-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;rounded=0;fontColor=#333333;fontSize=15;" value="拆分为" vertex="1">
+          <mxGeometry height="30" width="60" x="710" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="pRInpRH_bhrLjkbqyCdF-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;rounded=0;fontColor=#333333;fontSize=15;" value="包含" vertex="1">
+          <mxGeometry height="30" width="60" x="-70" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="pRInpRH_bhrLjkbqyCdF-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;rounded=0;fontColor=#333333;fontSize=15;" value="包含" vertex="1">
+          <mxGeometry height="30" width="60" x="150" y="584.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
