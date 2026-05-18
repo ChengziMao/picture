@@ -1,9 +1,30 @@
 <mxfile host="app.diagrams.net">
-  <diagram name="第 1 页" id="9t9MakoyjPEb_uyCVgen">
-    <mxGraphModel>
+  <diagram name="第 1 页" id="py8DfJGCDA7lNoztGgJ5">
+    <mxGraphModel dx="1414" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LdAh64ynXfSxQOT5DlZa-5" edge="1" parent="1" source="LdAh64ynXfSxQOT5DlZa-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LdAh64ynXfSxQOT5DlZa-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LdAh64ynXfSxQOT5DlZa-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="查询向量" vertex="1">
+          <mxGeometry height="60" width="210" x="130" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="LdAh64ynXfSxQOT5DlZa-6" edge="1" parent="1" source="LdAh64ynXfSxQOT5DlZa-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="LdAh64ynXfSxQOT5DlZa-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LdAh64ynXfSxQOT5DlZa-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="获取候选集" vertex="1">
+          <mxGeometry height="60" width="210" x="430" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="LdAh64ynXfSxQOT5DlZa-7" edge="1" parent="1" source="LdAh64ynXfSxQOT5DlZa-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="LdAh64ynXfSxQOT5DlZa-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LdAh64ynXfSxQOT5DlZa-3" parent="1" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="多样性优化" vertex="1">
+          <mxGeometry height="150" width="160" x="710" y="255" as="geometry" />
+        </mxCell>
+        <mxCell id="LdAh64ynXfSxQOT5DlZa-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="平衡结果" vertex="1">
+          <mxGeometry height="60" width="210" x="940" y="300" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
