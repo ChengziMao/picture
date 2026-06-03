@@ -7,28 +7,28 @@
         <mxCell id="QbjUrGHEHJ32VFkAuayf-15" edge="1" parent="1" source="QbjUrGHEHJ32VFkAuayf-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" target="QbjUrGHEHJ32VFkAuayf-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QbjUrGHEHJ32VFkAuayf-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="原始输入" vertex="1">
+        <mxCell id="QbjUrGHEHJ32VFkAuayf-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="原始输入" vertex="1">
           <mxGeometry height="50" width="170" x="30" y="290" as="geometry" />
         </mxCell>
         <mxCell id="QbjUrGHEHJ32VFkAuayf-16" edge="1" parent="1" source="QbjUrGHEHJ32VFkAuayf-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" target="QbjUrGHEHJ32VFkAuayf-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QbjUrGHEHJ32VFkAuayf-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="RunnablePassthrough" vertex="1">
+        <mxCell id="QbjUrGHEHJ32VFkAuayf-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="RunnablePassthrough" vertex="1">
           <mxGeometry height="50" width="170" x="300" y="290" as="geometry" />
         </mxCell>
-        <mxCell id="QbjUrGHEHJ32VFkAuayf-4" parent="1" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;" value="是否使用assign" vertex="1">
+        <mxCell id="QbjUrGHEHJ32VFkAuayf-4" parent="1" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="是否使用assign" vertex="1">
           <mxGeometry height="140" width="150" x="560" y="245" as="geometry" />
         </mxCell>
         <mxCell id="QbjUrGHEHJ32VFkAuayf-13" edge="1" parent="1" source="QbjUrGHEHJ32VFkAuayf-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" target="QbjUrGHEHJ32VFkAuayf-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QbjUrGHEHJ32VFkAuayf-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="附加新字段" vertex="1">
+        <mxCell id="QbjUrGHEHJ32VFkAuayf-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="附加新字段" vertex="1">
           <mxGeometry height="50" width="170" x="850" y="220" as="geometry" />
         </mxCell>
         <mxCell id="QbjUrGHEHJ32VFkAuayf-14" edge="1" parent="1" source="QbjUrGHEHJ32VFkAuayf-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" target="QbjUrGHEHJ32VFkAuayf-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QbjUrGHEHJ32VFkAuayf-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="直接透传数据" vertex="1">
+        <mxCell id="QbjUrGHEHJ32VFkAuayf-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="直接透传数据" vertex="1">
           <mxGeometry height="50" width="170" x="850" y="360" as="geometry" />
         </mxCell>
         <mxCell id="QbjUrGHEHJ32VFkAuayf-7" edge="1" parent="1" source="QbjUrGHEHJ32VFkAuayf-4" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;fontSize=15;" target="QbjUrGHEHJ32VFkAuayf-5" value="">
@@ -57,10 +57,10 @@
         <mxCell id="QbjUrGHEHJ32VFkAuayf-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="否" vertex="1">
           <mxGeometry height="30" width="60" x="730" y="360" as="geometry" />
         </mxCell>
-        <mxCell id="QbjUrGHEHJ32VFkAuayf-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="输出增强后的字典" vertex="1">
+        <mxCell id="QbjUrGHEHJ32VFkAuayf-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="输出增强后的字典" vertex="1">
           <mxGeometry height="50" width="170" x="1090" y="220" as="geometry" />
         </mxCell>
-        <mxCell id="QbjUrGHEHJ32VFkAuayf-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="输出原始数据" vertex="1">
+        <mxCell id="QbjUrGHEHJ32VFkAuayf-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="输出原始数据" vertex="1">
           <mxGeometry height="50" width="170" x="1090" y="360" as="geometry" />
         </mxCell>
       </root>
