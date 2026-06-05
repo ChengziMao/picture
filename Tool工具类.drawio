@@ -1,9 +1,51 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="fKsh08clDE6qbgkrebdn">
-    <mxGraphModel>
+    <mxGraphModel dx="1414" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_lqJuDCLX3myqPGZtOFC-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="感知输入" vertex="1">
+          <mxGeometry height="60" width="150" x="110" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="_lqJuDCLX3myqPGZtOFC-6" edge="1" parent="1" source="_lqJuDCLX3myqPGZtOFC-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_lqJuDCLX3myqPGZtOFC-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_lqJuDCLX3myqPGZtOFC-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="分析决策" vertex="1">
+          <mxGeometry height="60" width="150" x="320" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="_lqJuDCLX3myqPGZtOFC-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="调用工具" vertex="1">
+          <mxGeometry height="60" width="150" x="610" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="_lqJuDCLX3myqPGZtOFC-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="执行动作" vertex="1">
+          <mxGeometry height="60" width="150" x="850" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="_lqJuDCLX3myqPGZtOFC-5" edge="1" parent="1" source="_lqJuDCLX3myqPGZtOFC-1" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" target="_lqJuDCLX3myqPGZtOFC-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="270" />
+            </Array>
+            <mxPoint x="230" y="290" as="sourcePoint" />
+            <mxPoint x="280" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_lqJuDCLX3myqPGZtOFC-7" edge="1" parent="1" source="_lqJuDCLX3myqPGZtOFC-3" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" target="_lqJuDCLX3myqPGZtOFC-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="870" y="270" />
+            </Array>
+            <mxPoint x="900" y="270" as="sourcePoint" />
+            <mxPoint x="950" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_lqJuDCLX3myqPGZtOFC-8" edge="1" parent="1" source="_lqJuDCLX3myqPGZtOFC-4" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" target="_lqJuDCLX3myqPGZtOFC-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="450" />
+            </Array>
+            <mxPoint x="590" y="530" as="sourcePoint" />
+            <mxPoint x="640" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
