@@ -4,46 +4,46 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gLCEh18z237ShsNpVDyn-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Agent" vertex="1">
+        <mxCell id="gLCEh18z237ShsNpVDyn-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="Agent" vertex="1">
           <mxGeometry height="60" width="180" x="310" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="gLCEh18z237ShsNpVDyn-9" edge="1" parent="1" source="gLCEh18z237ShsNpVDyn-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gLCEh18z237ShsNpVDyn-6">
+        <mxCell id="gLCEh18z237ShsNpVDyn-9" edge="1" parent="1" source="gLCEh18z237ShsNpVDyn-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" target="gLCEh18z237ShsNpVDyn-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gLCEh18z237ShsNpVDyn-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="感知模块" vertex="1">
+        <mxCell id="gLCEh18z237ShsNpVDyn-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="感知模块" vertex="1">
           <mxGeometry height="60" width="180" x="-80" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="gLCEh18z237ShsNpVDyn-10" edge="1" parent="1" source="gLCEh18z237ShsNpVDyn-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="gLCEh18z237ShsNpVDyn-7">
+        <mxCell id="gLCEh18z237ShsNpVDyn-10" edge="1" parent="1" source="gLCEh18z237ShsNpVDyn-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" target="gLCEh18z237ShsNpVDyn-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gLCEh18z237ShsNpVDyn-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="决策模块" vertex="1">
+        <mxCell id="gLCEh18z237ShsNpVDyn-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="决策模块" vertex="1">
           <mxGeometry height="60" width="180" x="170" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="gLCEh18z237ShsNpVDyn-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="记忆模块" vertex="1">
+        <mxCell id="gLCEh18z237ShsNpVDyn-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="记忆模块" vertex="1">
           <mxGeometry height="60" width="180" x="470" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="gLCEh18z237ShsNpVDyn-11" edge="1" parent="1" source="gLCEh18z237ShsNpVDyn-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="gLCEh18z237ShsNpVDyn-8">
+        <mxCell id="gLCEh18z237ShsNpVDyn-11" edge="1" parent="1" source="gLCEh18z237ShsNpVDyn-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" target="gLCEh18z237ShsNpVDyn-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gLCEh18z237ShsNpVDyn-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="工具调用" vertex="1">
+        <mxCell id="gLCEh18z237ShsNpVDyn-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="工具调用" vertex="1">
           <mxGeometry height="60" width="180" x="740" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="gLCEh18z237ShsNpVDyn-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="用户指令" vertex="1">
+        <mxCell id="gLCEh18z237ShsNpVDyn-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="用户指令" vertex="1">
           <mxGeometry height="60" width="180" x="-80" y="450" as="geometry" />
         </mxCell>
-        <mxCell id="gLCEh18z237ShsNpVDyn-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="LLM核心" vertex="1">
+        <mxCell id="gLCEh18z237ShsNpVDyn-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="LLM核心" vertex="1">
           <mxGeometry height="60" width="180" x="170" y="450" as="geometry" />
         </mxCell>
-        <mxCell id="gLCEh18z237ShsNpVDyn-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="API/数据库/工具" vertex="1">
+        <mxCell id="gLCEh18z237ShsNpVDyn-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="API/数据库/工具" vertex="1">
           <mxGeometry height="60" width="230" x="715" y="450" as="geometry" />
         </mxCell>
-        <mxCell id="gLCEh18z237ShsNpVDyn-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;rounded=0;fontColor=#333333;" value="接受输入" vertex="1">
+        <mxCell id="gLCEh18z237ShsNpVDyn-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;rounded=0;fontColor=#333333;fontSize=15;" value="接受输入" vertex="1">
           <mxGeometry height="30" width="60" x="-40" y="350" as="geometry" />
         </mxCell>
-        <mxCell id="gLCEh18z237ShsNpVDyn-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;rounded=0;fontColor=#333333;" value="驱动" vertex="1">
+        <mxCell id="gLCEh18z237ShsNpVDyn-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;rounded=0;fontColor=#333333;fontSize=15;" value="驱动" vertex="1">
           <mxGeometry height="30" width="60" x="200" y="350" as="geometry" />
         </mxCell>
-        <mxCell id="gLCEh18z237ShsNpVDyn-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;rounded=0;fontColor=#333333;" value="调用" vertex="1">
+        <mxCell id="gLCEh18z237ShsNpVDyn-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;rounded=0;fontColor=#333333;fontSize=15;" value="调用" vertex="1">
           <mxGeometry height="30" width="60" x="790" y="350" as="geometry" />
         </mxCell>
       </root>
