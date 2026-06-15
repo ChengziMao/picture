@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="7YFVvg6ivD0uYwB_1lpa">
+    <mxGraphModel dx="1414" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sy2WSbZfNriTr9-zFDMq-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="内置工具" vertex="1">
+          <mxGeometry height="60" width="176" x="420" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="sy2WSbZfNriTr9-zFDMq-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="系统交互" vertex="1">
+          <mxGeometry height="60" width="176" x="80" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="sy2WSbZfNriTr9-zFDMq-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="数据访问" vertex="1">
+          <mxGeometry height="60" width="176" x="326" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="sy2WSbZfNriTr9-zFDMq-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="网络服务" vertex="1">
+          <mxGeometry height="60" width="176" x="570" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="sy2WSbZfNriTr9-zFDMq-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="专业领域" vertex="1">
+          <mxGeometry height="60" width="176" x="820" y="350" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
