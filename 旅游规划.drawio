@@ -1,26 +1,166 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="ZQSigYwjPJ_pQR212EKe">
-    <mxGraphModel dx="1414" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1414" dy="1920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="gEz-5l32g8_IxwMABl5X-6" edge="1" parent="1" source="gEz-5l32g8_IxwMABl5X-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" target="gEz-5l32g8_IxwMABl5X-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="cD3ZZIexw_u0G0kLkIJX-8" edge="1" parent="1" source="gEz-5l32g8_IxwMABl5X-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" target="gEz-5l32g8_IxwMABl5X-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gEz-5l32g8_IxwMABl5X-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15;" value="旅行规划" vertex="1">
           <mxGeometry height="60" width="120" x="20" y="370" as="geometry" />
         </mxCell>
-        <mxCell id="gEz-5l32g8_IxwMABl5X-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" value="住宿" vertex="1">
-          <mxGeometry height="60" width="120" x="250" y="180" as="geometry" />
+        <mxCell id="cD3ZZIexw_u0G0kLkIJX-1" edge="1" parent="1" source="gEz-5l32g8_IxwMABl5X-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" target="cD3ZZIexw_u0G0kLkIJX-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cD3ZZIexw_u0G0kLkIJX-2" edge="1" parent="1" source="gEz-5l32g8_IxwMABl5X-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" target="cD3ZZIexw_u0G0kLkIJX-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="400" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="gEz-5l32g8_IxwMABl5X-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=15;" value="交通" vertex="1">
           <mxGeometry height="60" width="120" x="250" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="gEz-5l32g8_IxwMABl5X-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=15;" value="景点" vertex="1">
-          <mxGeometry height="60" width="120" x="250" y="420" as="geometry" />
+        <mxCell id="cD3ZZIexw_u0G0kLkIJX-10" edge="1" parent="1" source="gEz-5l32g8_IxwMABl5X-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" target="cD3ZZIexw_u0G0kLkIJX-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cD3ZZIexw_u0G0kLkIJX-13" edge="1" parent="1" source="gEz-5l32g8_IxwMABl5X-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" target="cD3ZZIexw_u0G0kLkIJX-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cD3ZZIexw_u0G0kLkIJX-14" edge="1" parent="1" source="gEz-5l32g8_IxwMABl5X-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" target="cD3ZZIexw_u0G0kLkIJX-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gEz-5l32g8_IxwMABl5X-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;fontSize=15;" value="费用" vertex="1">
           <mxGeometry height="60" width="120" x="250" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="cD3ZZIexw_u0G0kLkIJX-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" value="住宿&lt;div&gt;餐饮&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="510" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="cD3ZZIexw_u0G0kLkIJX-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=15;" value="景点" vertex="1">
+          <mxGeometry height="60" width="120" x="510" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="cD3ZZIexw_u0G0kLkIJX-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=15;" value="景点" vertex="1">
+          <mxGeometry height="60" width="120" x="760" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="cD3ZZIexw_u0G0kLkIJX-7" edge="1" parent="1" source="cD3ZZIexw_u0G0kLkIJX-3" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" target="cD3ZZIexw_u0G0kLkIJX-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="680" y="400" as="sourcePoint" />
+            <mxPoint x="730" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cD3ZZIexw_u0G0kLkIJX-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=15;" value="交通" vertex="1">
+          <mxGeometry height="60" width="120" x="510" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="cD3ZZIexw_u0G0kLkIJX-33" edge="1" parent="1" source="cD3ZZIexw_u0G0kLkIJX-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=15;" target="cD3ZZIexw_u0G0kLkIJX-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cD3ZZIexw_u0G0kLkIJX-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=15;" value="景点" vertex="1">
+          <mxGeometry height="60" width="120" x="510" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="cD3ZZIexw_u0G0kLkIJX-16" edge="1" parent="1" source="cD3ZZIexw_u0G0kLkIJX-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" target="cD3ZZIexw_u0G0kLkIJX-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cD3ZZIexw_u0G0kLkIJX-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" value="住宿&lt;div&gt;餐饮&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="510" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="cD3ZZIexw_u0G0kLkIJX-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" value="折扣" vertex="1">
+          <mxGeometry height="60" width="120" x="760" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="cD3ZZIexw_u0G0kLkIJX-18" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=15;" value="景点推荐" vertex="1">
+          <mxGeometry height="80" width="120" x="690" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cD3ZZIexw_u0G0kLkIJX-19" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15;" value="根据天气推荐" vertex="1">
+          <mxGeometry height="80" width="120" x="890" y="-37" as="geometry" />
+        </mxCell>
+        <mxCell id="cD3ZZIexw_u0G0kLkIJX-20" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=15;" value="景点路径规划" vertex="1">
+          <mxGeometry height="80" width="120" x="400" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="cD3ZZIexw_u0G0kLkIJX-21" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=15;" value="根据偏好推荐" vertex="1">
+          <mxGeometry height="80" width="120" x="900" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cD3ZZIexw_u0G0kLkIJX-22" edge="1" parent="1" source="cD3ZZIexw_u0G0kLkIJX-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.16;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontSize=15;" target="cD3ZZIexw_u0G0kLkIJX-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="220" />
+              <mxPoint x="660" y="74" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cD3ZZIexw_u0G0kLkIJX-23" edge="1" parent="1" source="cD3ZZIexw_u0G0kLkIJX-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.1;entryY=0.513;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontSize=15;" target="cD3ZZIexw_u0G0kLkIJX-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="840" y="70" />
+              <mxPoint x="840" y="4" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cD3ZZIexw_u0G0kLkIJX-24" edge="1" parent="1" source="cD3ZZIexw_u0G0kLkIJX-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.083;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontSize=15;" target="cD3ZZIexw_u0G0kLkIJX-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="840" y="70" />
+              <mxPoint x="840" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cD3ZZIexw_u0G0kLkIJX-25" edge="1" parent="1" source="cD3ZZIexw_u0G0kLkIJX-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.942;entryY=0.463;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontSize=15;" target="cD3ZZIexw_u0G0kLkIJX-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="47" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cD3ZZIexw_u0G0kLkIJX-26" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" value="住宿路线规划" vertex="1">
+          <mxGeometry height="80" width="120" x="827" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="cD3ZZIexw_u0G0kLkIJX-27" edge="1" parent="1" source="cD3ZZIexw_u0G0kLkIJX-3" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.16;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;dashed=1;fontSize=15;" target="cD3ZZIexw_u0G0kLkIJX-26" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="240" />
+            </Array>
+            <mxPoint x="680" y="320" as="sourcePoint" />
+            <mxPoint x="730" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cD3ZZIexw_u0G0kLkIJX-28" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=15;" value="交通费用计算" vertex="1">
+          <mxGeometry height="80" width="120" x="760" y="471" as="geometry" />
+        </mxCell>
+        <mxCell id="cD3ZZIexw_u0G0kLkIJX-31" edge="1" parent="1" source="cD3ZZIexw_u0G0kLkIJX-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.075;entryY=0.613;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontSize=15;" target="cD3ZZIexw_u0G0kLkIJX-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cD3ZZIexw_u0G0kLkIJX-32" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=15;" value="景点费用计算" vertex="1">
+          <mxGeometry height="80" width="120" x="760" y="575" as="geometry" />
+        </mxCell>
+        <mxCell id="cD3ZZIexw_u0G0kLkIJX-34" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" value="监控折扣" vertex="1">
+          <mxGeometry height="80" width="120" x="970" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="cD3ZZIexw_u0G0kLkIJX-35" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" value="住宿费用计算" vertex="1">
+          <mxGeometry height="80" width="120" x="970" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="cD3ZZIexw_u0G0kLkIJX-36" edge="1" parent="1" source="cD3ZZIexw_u0G0kLkIJX-12" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;curved=1;dashed=1;fontSize=15;" target="cD3ZZIexw_u0G0kLkIJX-34" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="630" />
+            </Array>
+            <mxPoint x="730" y="870" as="sourcePoint" />
+            <mxPoint x="780" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cD3ZZIexw_u0G0kLkIJX-37" edge="1" parent="1" source="cD3ZZIexw_u0G0kLkIJX-12" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.1;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;dashed=1;fontSize=15;" target="cD3ZZIexw_u0G0kLkIJX-35" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="780" y="800" />
+            </Array>
+            <mxPoint x="770" y="880" as="sourcePoint" />
+            <mxPoint x="820" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cD3ZZIexw_u0G0kLkIJX-38" parent="1" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;verticalAlign=top;fontSize=15;" value="十一国庆&lt;div&gt;从深圳到清远&lt;/div&gt;&lt;div&gt;自驾游三天&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="150" x="30" y="610" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
