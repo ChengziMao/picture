@@ -178,7 +178,7 @@
         <mxCell id="IMRru-20d9ixE-izOrU--68" edge="1" parent="1" source="IMRru-20d9ixE-izOrU--56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="IMRru-20d9ixE-izOrU--57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IMRru-20d9ixE-izOrU--56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" value="大模型分析" vertex="1">
+        <mxCell id="IMRru-20d9ixE-izOrU--56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" value="大模型逻辑分析" vertex="1">
           <mxGeometry height="60" width="120" x="360" y="1070" as="geometry" />
         </mxCell>
         <mxCell id="IMRru-20d9ixE-izOrU--69" edge="1" parent="1" source="IMRru-20d9ixE-izOrU--57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IMRru-20d9ixE-izOrU--58">
