@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="Y3Om2OvIkJ5weaIR0hEs">
+    <mxGraphModel dx="1414" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-Jdji040qVtD7X_14nc5-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;" value="用户&lt;div&gt;Prompt&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="150" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="-Jdji040qVtD7X_14nc5-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#f00505, #ededed);fontSize=15;fontColor=light-dark(#f8f7f7, #ededed);" value="节点1" vertex="1">
+          <mxGeometry height="80" width="80" x="410" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="-Jdji040qVtD7X_14nc5-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#f20707, #ededed);fontSize=15;fontColor=light-dark(#f8f7f7, #ededed);" value="节点2" vertex="1">
+          <mxGeometry height="80" width="80" x="680" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="-Jdji040qVtD7X_14nc5-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;" value="大模型输出" vertex="1">
+          <mxGeometry height="60" width="120" x="890" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="-Jdji040qVtD7X_14nc5-5" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontColor=light-dark(#f20202, #ededed);strokeColor=light-dark(#f90606, #ededed);fontSize=15;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160" y="280" as="sourcePoint" />
+            <mxPoint x="1000" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Jdji040qVtD7X_14nc5-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#ff0505, #ededed);fontColor=light-dark(#f90606, #ededed);fontSize=15;" value="全局状态" vertex="1">
+          <mxGeometry height="40" width="140" x="400" y="210" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
