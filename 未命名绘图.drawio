@@ -7,25 +7,25 @@
         <mxCell id="vXs0ftpAc19_92UgS6Ky-9" edge="1" parent="1" source="vXs0ftpAc19_92UgS6Ky-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" target="vXs0ftpAc19_92UgS6Ky-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vXs0ftpAc19_92UgS6Ky-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="分布式Agent 自主&lt;div&gt;旅游规划&lt;/div&gt;" vertex="1">
+        <mxCell id="vXs0ftpAc19_92UgS6Ky-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#f8cecc;strokeColor=#b85450;" value="分布式Agent 自主&lt;div&gt;旅游规划&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="190" x="210" y="170" as="geometry" />
         </mxCell>
         <mxCell id="vXs0ftpAc19_92UgS6Ky-10" edge="1" parent="1" source="vXs0ftpAc19_92UgS6Ky-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" target="vXs0ftpAc19_92UgS6Ky-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vXs0ftpAc19_92UgS6Ky-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="用户Web Api请求&lt;div&gt;（输入Prompt）&lt;/div&gt;" vertex="1">
+        <mxCell id="vXs0ftpAc19_92UgS6Ky-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" value="用户Web Api请求&lt;div&gt;（输入Prompt）&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="190" x="160" y="310" as="geometry" />
         </mxCell>
         <mxCell id="vXs0ftpAc19_92UgS6Ky-11" edge="1" parent="1" source="vXs0ftpAc19_92UgS6Ky-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=15;" target="vXs0ftpAc19_92UgS6Ky-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vXs0ftpAc19_92UgS6Ky-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="主管Agent节点&lt;div&gt;接受Prompt&lt;/div&gt;" vertex="1">
+        <mxCell id="vXs0ftpAc19_92UgS6Ky-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" value="主管Agent节点&lt;div&gt;接受Prompt&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="190" x="210" y="450" as="geometry" />
         </mxCell>
-        <mxCell id="vXs0ftpAc19_92UgS6Ky-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="自主分发任务" vertex="1">
+        <mxCell id="vXs0ftpAc19_92UgS6Ky-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" value="自主分发任务" vertex="1">
           <mxGeometry height="60" width="90" x="40" y="525" as="geometry" />
         </mxCell>
-        <mxCell id="vXs0ftpAc19_92UgS6Ky-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="自主分解任务" vertex="1">
+        <mxCell id="vXs0ftpAc19_92UgS6Ky-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" value="自主分解任务" vertex="1">
           <mxGeometry height="60" width="90" x="510" y="555" as="geometry" />
         </mxCell>
         <mxCell id="vXs0ftpAc19_92UgS6Ky-17" edge="1" parent="1" source="vXs0ftpAc19_92UgS6Ky-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" target="vXs0ftpAc19_92UgS6Ky-7">
@@ -34,13 +34,13 @@
         <mxCell id="vXs0ftpAc19_92UgS6Ky-18" edge="1" parent="1" source="vXs0ftpAc19_92UgS6Ky-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" target="vXs0ftpAc19_92UgS6Ky-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vXs0ftpAc19_92UgS6Ky-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="Nacos注册中心&lt;div&gt;（发现其他节点的Agent）&lt;/div&gt;" vertex="1">
+        <mxCell id="vXs0ftpAc19_92UgS6Ky-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="Nacos注册中心&lt;div&gt;（发现其他节点的Agent）&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="270" x="160" y="600" as="geometry" />
         </mxCell>
-        <mxCell id="vXs0ftpAc19_92UgS6Ky-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="路线规划Agent 节点&lt;div&gt;接收任务&lt;/div&gt;" vertex="1">
+        <mxCell id="vXs0ftpAc19_92UgS6Ky-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#f8cecc;strokeColor=#b85450;" value="路线规划Agent 节点&lt;div&gt;接收任务&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="150" x="40" y="750" as="geometry" />
         </mxCell>
-        <mxCell id="vXs0ftpAc19_92UgS6Ky-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="行程规划Agent节点&lt;div&gt;接收任务&lt;/div&gt;" vertex="1">
+        <mxCell id="vXs0ftpAc19_92UgS6Ky-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" value="行程规划Agent节点&lt;div&gt;接收任务&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="150" x="380" y="800" as="geometry" />
         </mxCell>
         <mxCell id="vXs0ftpAc19_92UgS6Ky-14" edge="1" parent="1" source="vXs0ftpAc19_92UgS6Ky-3" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;edgeStyle=orthogonalEdgeStyle;dashed=1;fontSize=15;" target="vXs0ftpAc19_92UgS6Ky-4" value="">
@@ -71,22 +71,22 @@
         <mxCell id="vXs0ftpAc19_92UgS6Ky-27" edge="1" parent="1" source="vXs0ftpAc19_92UgS6Ky-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;dashed=1;fontSize=15;" target="vXs0ftpAc19_92UgS6Ky-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vXs0ftpAc19_92UgS6Ky-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="按照&amp;nbsp; 思考-执行-反馈&lt;div&gt;自主执行任务&lt;/div&gt;" vertex="1">
+        <mxCell id="vXs0ftpAc19_92UgS6Ky-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="按照&amp;nbsp; 思考-执行-反馈&lt;div&gt;自主执行任务&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="150" x="510" y="900" as="geometry" />
         </mxCell>
         <mxCell id="vXs0ftpAc19_92UgS6Ky-28" edge="1" parent="1" source="vXs0ftpAc19_92UgS6Ky-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;dashed=1;fontSize=15;" target="vXs0ftpAc19_92UgS6Ky-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vXs0ftpAc19_92UgS6Ky-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="子Agent&lt;div&gt;异步执行单一任务&lt;/div&gt;" vertex="1">
+        <mxCell id="vXs0ftpAc19_92UgS6Ky-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" value="子Agent&lt;div&gt;异步执行单一任务&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="150" x="630" y="1000" as="geometry" />
         </mxCell>
         <mxCell id="vXs0ftpAc19_92UgS6Ky-29" edge="1" parent="1" source="vXs0ftpAc19_92UgS6Ky-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;dashed=1;fontSize=15;" target="vXs0ftpAc19_92UgS6Ky-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vXs0ftpAc19_92UgS6Ky-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="按照Skills专业流程&lt;div&gt;执行任务&lt;/div&gt;" vertex="1">
+        <mxCell id="vXs0ftpAc19_92UgS6Ky-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" value="按照Skills专业流程&lt;div&gt;执行任务&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="150" x="480" y="1100" as="geometry" />
         </mxCell>
-        <mxCell id="vXs0ftpAc19_92UgS6Ky-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="MCP Server节点&lt;div&gt;调用工具&lt;/div&gt;" vertex="1">
+        <mxCell id="vXs0ftpAc19_92UgS6Ky-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" value="MCP Server节点&lt;div&gt;调用工具&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="150" x="380" y="1230" as="geometry" />
         </mxCell>
         <mxCell id="vXs0ftpAc19_92UgS6Ky-26" edge="1" parent="1" source="vXs0ftpAc19_92UgS6Ky-8" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;dashed=1;fontSize=15;" target="vXs0ftpAc19_92UgS6Ky-22" value="">
@@ -96,7 +96,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vXs0ftpAc19_92UgS6Ky-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="MCP协议" vertex="1">
-          <mxGeometry height="30" width="60" x="420" y="1180" as="geometry" />
+          <mxGeometry height="30" width="100" x="420" y="1180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
